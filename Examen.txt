@@ -1,0 +1,1739 @@
+Autodiagnóstico del 
+Examen General para el Egreso de la Licenciatura en Informática 
+EGEL-I 
+ 	 
+	 
+A1.1.- El (la) ______ no es parte de los elementos clave de una organización. 
+1. Personal 
+2. Estructura 
+3. Cultura 
+4. Capital 
+
+A1. 2.- En la pirámide organizacional la ________ y la  __________ aumentan con la altura del puesto. 
+        a) Autoridad 
+1. Habilidad 
+2. Responsabilidad 
+3. Confianza 
+A1. 3.- Los  sistemas de información pueden proporcionar a los administradores mayor información que les permite supervisar a más trabajadores y confieren a empleados de nivel más bajo,  mayor autoridad para tomar decisiones.   El párrafo anterior se refiere a: 
+1. Administración estratégica 
+2. Sistema de información gerencial 
+3. Aplanamiento de las organizaciones 
+4. Revolución tecnológica 
+A1. 4.- Una organización que usa redes que vinculan a personas, activos e ideas para crear y distribuir productos y servicios, sin estar limitada a las fronteras tradicionales de las organizaciones ni por  la ubicación física es: 
+1. Una empresa transnacional 
+2. Una red de datos 
+3. Un corporativo 
+4. Una organización virtual 
+A1. 5.- Dentro de la cadena de valor,   las _______________________ están relacionadas más directamente con la producción y distribución de los productos o servicios. 
+1. Actividades de apoyo 
+2. Actividades primarias 
+3. Actividades rutinarias 
+4. Actividades recursivas 
+A1. 6.- Dentro de la cadena de valor, ¿Cuáles de las siguientes  no  corresponde a actividades de apoyo? 
+1. Distribución 
+2. Recursos Humanos 
+3. Tecnología  
+4. Compras 
+A1. 7.- ______________________es una estructura social formal estable que toma recursos del entorno y los procesa para producir salidas. 
+1. La administración 
+2. La organización 
+3. La informática 
+4. La  ventaja competitiva 
+ 
+A1. 8.- División nítida del trabajo, reglas,  procedimientos abstractos y   toma de decisiones imparcial, que se basa en aptitudes técnicas y el profesionalismo para promover a sus empleados. 
+        a)  Políticas de la organización  
+1. Cultura de la organización 
+2. Procedimientos operativos 
+3. Burocracia 
+A1. 9.- Conjunto de supuestos fundamentales acerca de lo que la organización debe producir, como y donde debe producirlo y para quienes debe hacerlo. 
+1. Políticas de la organización  
+2. Cultura de la organización 
+3. Procedimientos operativos 
+4. Burocracia 
+A1. 10.- Un principio que concierne a la estructura de una organización es: 
+1. División de trabajo  
+2. Planeación estratégica 
+3. El control 
+4. La departamentalización 
+A1. 11.- A la representación grafica de la estructura formal de una organización se denomina 
+1.  Grafica de Gantt 
+1. Una visión jerárquica 
+2. Pirámide organizacional 
+3. Diagrama de organización 
+A1. 12.- En una organización centralizada  
+1. Las decisiones más importantes son hechas por la alta dirección 
+2. La autoridad es delegada 
+3. El principio de paridad nunca es violado 
+4. La responsabilidad es distribuida a los niveles inferiores 
+A1. 13.- El diseño organizacional es el proceso de 
+1. Decidir los componentes de cada puesto en la organización 
+2. Determinar las macroestructuras para la organización 
+3. Determinar estratégicamente el contenido de cada posición 
+4. Agrupar los puestos por especialización 
+A1. 14.- Los cambios estructurales usualmente son iniciados como respuesta a: 
+1. Un cambio de presidente de la empresa 
+2. Un cambio en la filosofía de la administración 
+3. Cambios en el medio ambiente 
+4. Cambios tácticos 
+ 
+A1. 15.- La distribución de la autoridad a las posiciones de los colaboradores se llama a) Legitimación  
+1. Jerarquía 
+2. Delegación 
+3. Organización pyramidal 
+ 
+ 
+	A Detección de las necesidades informáticas de las organizaciones 
+	30 
+	2 
+	A2. Análisis de los sistemas de información de la organización 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+* Identificar las funciones genéricas de los sistemas de información 
+* Diagnosticar las necesidades de los sistemas de información 
+* Realizar seguimiento a procesos de mejora continua 
+* Aplicar medidas de responsabilidad social 
+* Aplicar la normatividad referente a las tecnologías de la información y comunicación 
+	 
+	 
+A2. 1.- Conjunto de componentes interrelacionados que reúne, procesa, almacena y distribuye información es: 
+1. Una Red de computadoras 
+2. Un sistema de información 
+3. Un proceso organizacional 
+4. Una base de datos 
+A2. 2.- Los ________ son flujos de hechos que representan sucesos ocurridos en las organizaciones o en el entorno físico, antes de ser organizados y acomodados. 
+1. Procesos 
+2. Resultados 
+3. Datos 
+4. Conflictos 
+A2. 3.- La conversión, manipulación y análisis de entradas en bruto para darles una forma que tenga más sentido para los seres humanos es: 
+1. El procesamiento  
+2. El trabajo 
+3. El ordenamiento 
+4. El calculo 
+A2. 4.- Un _____________ es un sistema de información que integran todas las facetas del negocio de modo que se coordinen más estrechamente compartiendo información entre sí. 
+1. ERP 
+2. DSS 
+3. CRM 
+4. SCM 
+A2. 5.- El diseño específico que la tecnología de información adopta en una organización determinada para lograr metas o realizar funciones selectas es: 
+1. Estrategia del negocio 
+2. Arquitectura de información 
+3. Bases de datos relacionales 
+4. Interacción entre organización-sistema de información 
+A2. 6.- Por la estructura jerárquica de la organización  los sistemas de información se dividen en cuatro niveles  ¿Cuál de los siguientes no entra  en esta clasificación? 
+1. Estratégico 
+2. Administración 
+3. Producción 
+4. Conocimientos 
+5. Operativos 
+A2. 7.- Por las áreas funcionales los sistemas de información se dividen en cinco categorías ¿Cuál de las siguientes no entra en esa clasificación? 
+________________
+
+
+1. Ventas y marketing 
+2. Producción 
+3. Dirección 
+4. Finanzas 
+5. Contabilidad 
+6. Recursos humanos 
+A2. 8.- Los sistemas de información que monitorean las actividades y transacciones elementales de la organización son: 
+1. ESS   Sistemas de apoyo a ejecutivos 
+2. DSS  Sistemas de apoyo a decisiones 
+3. KWS  Sistemas de trabajo de conocimientos 
+4. TPS  Sistemas de procesamiento de transacciones 
+A2. 9.- Los sistemas de información que apoyan las actividades de planificación a largo plazo son: 
+1. ESS   Sistemas de apoyo a ejecutivos 
+2. DSS  Sistemas de apoyo a decisiones 
+3. KWS  Sistemas de trabajo de conocimientos 
+4. TPS  Sistemas de procesamiento de transacciones 
+A2. 10.- El método de abasto justo a tiempo permite  ___________________ 
+1. Eliminar los inventarios del proveedor 
+2. Reducir los inventarios del proveedor 
+3. Eliminar todos los inventarios del cliente 
+4. Reducir los inventarios del cliente 
+A2. 11.- ____________________ es una alianza cooperativa entre dos corporaciones con el fin de compartir información para obtener una ventaja competitiva. 
+1. La economía de Redes 
+2. El modelo de fuerzas competitivas 
+3. La sociedad de información 
+4. La cadena de valor 
+A2. 12.- La cultura, la burocracia, la política, el estilo de negocio entre otros, son factores que influyen en _______________________ entre las organizaciones y la tecnología de información. a) La relación bidireccional 
+1. La cadena de valor 
+2. El liderazgo 
+3. La estructura jerárquica 
+A2. 13.- Factores externos a la organización que influyen en la adopción y el diseño de sistemas de información. 
+1. Factores de entorno 
+2. Usuarios Finales 
+3. Análisis de sistemas 
+4. Factores institucionales 
+A2. 14.- Modelo de la compañía que ve a la tecnología de información como un factor de producción que puede sustituirse libremente por capital y mano de obra. 
+1. Modelo Jerárquico 
+2. Análisis de sistemas 
+3. Modelo microeconómico 
+4. Teoría del costo de transacción 
+A2. 15.- Administrador de nivel superior a cargo de la función de sistemas de información en la compañía. 
+1. CEO 
+2. CIO 
+3. Analista de sistemas 
+4. Administrador de sistemas 
+ 
+ 
+	B Gestión de proyectos tecnológicos 
+	44 
+	3 
+	B1. Planeación del proyecto 
+	27 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+* Definir características del proyecto tecnológico 
+* Definir el alcance del proyecto tecnológico 
+* Administrar actividades del proyecto tecnológico 
+* Administrar recursos del proyecto tecnológico 
+* Gestionar riesgos del proyecto tecnológico 
+	 
+	 
+B1. 1. ¿Qué es la actividad de Inicio de un Proyecto?  a. Ejecución de actividades y pruebas de software 
+b. Inicio del contrato y formación del Equipo del Proyecto y prácticas para la ejecución del proyecto.  
+ 
+B1. 2. ¿Para qué sirve una reunión de kick-off?  
+1. Para examinar los objetivos de proyecto, introducir los sistemas de control y rastreo, establecer los procedimientos de cambios e iniciar el Plan de Comunicación 
+2. Para conocerse todos los integrantes del equipo de trabajo y entregar el Plan de Comunicación  
+ 
+B1. 3. Definición de la Administración de la Integración del Proyecto 
+1. El proceso requerido para asegurar que los diferentes proyectos del programa sean adecuadamente coordinados 
+2. El proceso requerido para asegurar que los diferentes elementos del proyecto sean adecuadamente coordinados 
+ 
+B1. 4. ¿Cuáles son los tres principales procesos de la Administración de la Integración del Proyecto?  a. Desarrollo del plan del proyecto; Ejecución del plan del proyecto; Control total del proyecto 
+b. Desarrollo del plan de actividades; Ejecución de las actividades del proyecto; Control total de las actividades del proyecto 
+ 
+B1. 5. ¿Cuándo ocurren los tres procesos de la Administración de la Integración del Proyecto?  a. Generalmente, al menos una vez en cada fase del proyecto. 
+b. Generalmente, al principio del proyecto. 
+ 
+B1. 6. ¿Por qué tiene que revisarse el Plan del Proyecto? 
+1. Asegurarse de que todos los miembros del Equipo del Proyecto entienden el Plan de Comunicación y reconozcan al Project manager 
+2. Asegurarse de que todos los miembros del Equipo del Proyecto entienden los requerimientos del proyecto, objetivos y expectativas, junto con el proceso que es seguido en la implementación de la solución  
+ 
+B1. 7. ¿Qué define el Plan de Comunicación?  
+1. Requerimientos; Formatos y Procedimientos; Estándares; Asuntos 
+2. WBS; Programa; Roles del equipo de proyecto; Asuntos  
+ 
+B1. 8. ¿Qué datos debe incluir un Plan del Proyecto?  
+   1. El WBS con duración y esfuerzo; Dependencias y relaciones del paquete de trabajos 
+(principio/principio, fin/principio, o fin/fin); Nombre de recursos (o tipo y número de recursos de ser demasiado numeroso para poner   en una lista); Asignaciones de los recursos para paquetes de trabajo (incluyendo el trabajo estimado requerido completar el paquete de trabajo) 
+   1. Todo lo anterior más: El material y otro costo en el nivel del paquete de trabajo;  Gastos administrativos y otros a nivel de proyecto; Hitos principales y entregables; Las tareas administrativas del proyecto programado (reuniones de revisión del proyecto, actualizaciones de estatus, informe sobre la marcha de proyecto) 
+ 
+B1. 9. ¿Cuáles son las dos fuentes de cambio potencial? 
+   1. Solicitudes de Cambio; Reportes de avance del proyecto 
+   2. Solicitudes de Cambio; Reportes Fuera de Especificación  
+ 
+B1. 10. ¿Cuáles son los pasos del proceso de control de cambios?  
+   1. Solicitud de Revisión del Cambio; Evaluar el Cambio Propuesto; Aprobación de la Solicitud para el 
+Cambio; Incorporar el Cambio; Actualizar la Bitácora de Cambios y el Plan de Proyecto 
+   1. Solicitud de Revisión del Cambio; Evaluar el Cambio Propuesto; Aprobación de la Solicitud para el Cambio; Incorporar el Cambio 
+ 
+B1. 11. ¿En qué consiste la Revisión del Plan del Proyecto?  
+   1. La revisión de resultados de cada etapa del proyecto 
+   2. El Gerente de Proyecto examina el Plan de Proyecto para asegurar que todos los procesos del proyecto están claramente definidos. 
+ 
+B1. 12. ¿En qué consiste el Aseguramiento de Familiaridad del Equipo de Proyecto?  
+   1. El Gerente de Proyecto se asegura que todos los requerimientos del Plan de Proyecto han sido comunicados con eficacia a cada miembro del Equipo de Proyecto, no incluyendo al personal contratado en la entrega de la garantía y apoyar los servicios 
+   2. El Gerente de Proyecto se asegura que todos los requerimientos del Plan de Proyecto han sido comunicados con eficacia a cada miembro del Equipo de Proyecto, incluyendo al personal contratado en la entrega de la garantía y apoyar los servicios 
+ 
+B1. 13. Definición del desarrollo del plan del proyecto  
+   1. Tomar los resultados de los procesos de planeación y ponerlos en un reporte a la dirección 
+   2. Tomar los resultados de otros procesos de planeación y ponerlos en un documento coherente y consistente 
+ 
+B1. 14. Listar seis formas en que el plan del proyecto es usado.  
+a: Falso (  ) b: Verdadero (  ) 
+   1. Guiar la ejecución del proyecto 
+   2. Documentar las hipótesis de la planeación del proyecto 
+   3. Documentar las decisiones de la planeación del proyecto 
+   4. Facilitar la comunicación entre los “stakeholders” 
+   5. Definir el contenido, extensión y oportunidad de las revisiones administrativas clave 
+   6. Proporcionar una línea base para la medición del avance y control del proyecto 
+ 
+B1. 15. Descripción de la naturaleza del desarrollo del plan del proyecto  
+   1. Es un proceso secuencial. Por ejemplo, el plan inicial puede incluir recursos genéricos y estimados de las actividades con fechas 
+   2. Es un proceso interactivo. Por ejemplo, el plan inicial puede incluir recursos genéricos y estimados de las actividades sin fechas 
+ 
+B1. 16. ¿Cuáles son las entradas o inputs para el desarrollo del plan del proyecto?  
+   1. Otras salidas o resultados de la planeación; Información histórica; Políticas organizacionales; 
+Restricciones; Hipótesis 
+   1. Otras entradas de la planeación; Estadísticas; Políticas organizacionales; Restricciones; Hipótesis 
+ 
+B1. 17. ¿Cuáles son las cinco categorías de los procesos de la administración de proyectos?  
+   1. Inicio; Planeación; Ejecución; Control; Cierre 
+   2. Administración; Evaluación; Informes; Cierre 
+ 
+B1. 18. ¿Cuál es el propósito del work breakdown structure WBS?  
+   1. Identificar todas las actividades que necesitan desarrollarse para terminar el proyecto 
+   2. Identificar todos los entregables que necesitan completarse para terminar el proyecto 
+ 
+B1. 19. ¿Qué es el alcance de un proyecto? 
+   1. Es la subdivisión de los principales entregables en componentes más pequeños y más manejables 
+   2. Es la totalidad de las tareas que han sido contratadas 
+ 
+B1. 20. ¿Por qué es importante hacer un análisis cuidadoso y preciso de las necesidades? 
+   1. Para calcular el precio del proyecto con base en las expectativas del cliente o stakeholder  
+   2. Para asegurar que las expectativas del cliente o stakeholder se puedan identificar y satisfacer 
+  
+B1. 21. ¿Cuál es el propósito del “project charter”?  
+   1. Documentar formalmente la existencia del proyecto, incluyendo la necesidad de los negocios de que el proyecto sea emprendido para la atención y descripción del producto 
+   2. Documentar formalmente el plan de comunicación del proyecto, incluyendo la descripción de roles del equipo del proyecto 
+ 
+B1. 22. ¿Por qué es crucial la definición del alcance para el éxito del proyecto?  
+   1. Para evitar que sucedan cambios y no sea modificado el plan del proyecto 
+   2. Para evitar altos costos debidos a cambios que requieren retrabajo; para no retrasarse; para mantener la moral y el apoyo altos de parte del “stakeholder” 
+ 
+B1. 23. ¿Cuáles son los cinco procesos principales de la Administración del Tiempo? [P] a: Falso (  ) b: Verdadero (  ) 
+   1. Definición de actividades 
+   2. Secuenciación de actividades 
+   3. Estimación de la duración de actividades 
+   4. Desarrollo del programa 
+   5. Control del programa 
+ 
+B1. 24. ¿Cuál es la diferencia entre actividades y tareas?  
+   1. No existe consenso. Se pueden intercambiar 
+   2. Existe consenso. No se deben intercambiar 
+ 
+B1. 25. ¿Qué se incluye en el proceso de definición de actividades? 
+   1. Identificación y documentación de los entregables específicos que deben cumplirse tomando en cuenta el Gantt 
+   2. Identificación y documentación de las actividades específicas que deben realizarse para producir los entregables y subentregables en el WBS 
+ 
+B1. 26. Describa la relación entre WBS y una lista de actividades 
+   1. La lista de actividades es desarrollada a partir de los paquetes de trabajo en el WBS 
+   2. El WBS es desarrollado una vez que se conocen los entregables 
+ 
+B1. 27. ¿Qué es la planeación de la calidad? 
+   1. La identificación de los entregables que son relevantes para el proyecto y determinar su alcance 
+   2. La identificación de los estándares de calidad que son relevantes para el proyecto y determinar cómo se satisfacen 
+ 
+________________
+ 
+	B Gestión de proyectos tecnológicos 
+	44 
+	4 
+	B2. Ejecución del proyecto 
+	9 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+* Verificar el alcance del proyecto tecnológico 
+* Asegurar la calidad del proyecto tecnológico 
+* Administrar contratos tecnológicos 
+	 
+	 
+B2. 1. ¿Qué es el Plan de Ejecución del Proyecto? 
+   1. Esta Tarea formalmente inicia el arranque de la adquisición, desarrollo y procedimientos de aceptación de los entregables del proyecto 
+   2. Esta Tarea formalmente inicia la ejecución y control de los entregables del proyecto 
+ 
+B2. 2. Definición de ejecución del plan del proyecto  
+   1. Llevar a cabo la ejecución de los entregables del proyecto realizando las actividades descritas en el 
+WBS 
+   1. Llevar a cabo el plan del proyecto realizando las actividades descritas en el plan 
+ 
+B2. 3. ¿Qué es un plan de proyecto? 
+   1. Un documento formal, aprobado que se usa para administrar y controlar la ejecución de un proyecto 
+   2. Un WBS formal, aprobado que se usa para rastrear y controlar la administración de un proyecto 
+ 
+B2. 4. ¿Durante qué proceso de la Administración de la Integración del Proyecto se gasta la mayor parte del presupuesto del proyecto?  
+   1. Planeación del proyecto 
+   2. Ejecución del plan del proyecto 
+ 
+B2. 5. ¿Qué se entiende por acción correctiva?  
+   1. Cualquier cosa hecha para lograr que se alinee el desempeño futuro esperado con el plan del proyecto  
+   2. Tomar decisiones que cambien la situación que provoca el error 
+ 
+B2. 6. ¿Cuáles son las cinco habilidades generales que afectan más probablemente a los proyectos?  
+a: Falso (  ) b: Verdadero (  ) 
+      1. Liderazgo 
+      2. Comunicación 
+      3. Negociación 
+      4. Solución de problemas 
+      5. Influencia sobre la organización 
+ 
+B2. 7. ¿Qué se entiende por influenciar a la organización?  
+   1. Hacer posible que las cosas se hagan 
+   2. Lograr vender más productos a la organización 
+ 
+B2. 8. ¿Cómo son medidos los alcances de los proyectos y de los productos? 
+   1. El alcance de productos es medido contra el plan; el de proyectos contra los requerimientos 
+   2. El alcance de proyectos es medido contra el plan; el de productos contra los requerimientos 
+ 
+B2. 9. ¿Cuál es la diferencia entre programas y proyectos? 
+   1. Los programas son mayores en alcance 
+   2. Los proyectos son mayores en alcance 
+ 
+	B Gestión de proyectos tecnológicos 
+	44 
+	5 
+	B3. Control del proyecto 
+	8 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+* Controlar cambios del proyecto tecnológico 
+* Definir las etapas del cierre del proyecto tecnológico 
+	 
+	 
+ 
+B3. 1. ¿Para qué sirve una revisión del Plan de Comunicación de un proyecto?  
+   1. El Gerente de Proyecto se asegura que todos los miembros del equipo entiendan los protocolos de comunicaciones para el proyecto y que no haya barreras evidentes para la comunicación.  
+   2. El Gerente de Proyecto se asegura que todas las actividades del proyecto sean comunicadas a los miembros del equipo y que no haya barreras evidentes para realizar el plan del proyecto  
+ 
+B3. 2. ¿Qué es el elemento de control de un proyecto?  
+   1. El control es un auxiliar de la administración de proyectos. El control de proyecto implica cerrar el alcance y evitar cambios al proyecto. 
+   2. El control es el corazón de cualquier plan eficaz de administración de proyectos. El control de proyecto implica el monitoreo de lo que realmente sucede con el proyecto comparado con el plan de la línea base 
+ 
+B3. 3. ¿Qué incluye el control de un proyecto?  
+   1. Implica supervisar el costo y desempeño del programa, identificar y analizar las varianzas, asegurando la calidad, administración de cambios, mitigación del riesgo, y tomar las acciones requeridas para facilitar y asegurar el desempeño aceptable del proyecto 
+   2. Lo anterior más el cobro de los trabajos realizados 
+ 
+B3. 4. ¿Qué se puede hacer con el monitoreo de los gastos del proyecto?  
+   1. Poder ejercer control sobre los gastos del proyecto y tomar la acción requerida para mantener el desempeño financiero del proyecto dentro de los parámetros establecidos 
+   2. Poder identificar las varianzas, analizar los factores que contribuyen, pronosticar los efectos, y tomar la acción requerida para mantener el desempeño financiero del proyecto aceptable 
+  
+B3. 5. ¿Qué permite hacer el “earned value analysis”? [C] 
+   1. Identificar las utilidades del proyecto; clasificarlas como utilidades, menores, o mayores, según el umbral establecido; y comunicar el estado financiero del proyecto a los stakeholders 
+   2. Identificar varianzas de costos de la línea base; clasificarlos como rutina, menores, o mayores varianzas, según el umbral establecido; y tomar la mayor parte de acciones correctivas apropiadas 
+ 
+B3. 6. ¿Qué se entiende por control de cambios total?  
+   1. Coordinación y administración de los cambios durante todo el proyecto 
+   2. Identificación, ejecución y entrega de los cambios durante todo el proyecto 
+ 
+B3. 7. ¿Cuál es el alcance del control de cambios?  
+   1. Liderar y comunicar los cambios al equipo del proyecto 
+   2. Coordinar y administrar los cambios para el alcance del proyecto 
+ 
+B3. 8. ¿Qué es un cambio al alcance?  
+   1. Cualquier modificación que solicite el cliente al Project Manager  
+   2. Cualquier modificación al alcance acordado cuando fue definido en el WBS aprobado 
+ 
+	C Administración de las áreas de tecnologías de información de las Organizaciones 
+	60 
+	6 
+	C1. Alineación de la tecnología de información y comunicación con la planeación estratégica 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+* Identificar las tecnologías utilizadas en la organización 
+* Utilizar los recursos tecnológicos para dar servicios a los usuarios 
+* Desarrollar las estrategias tecnológicas 
+* Ajustar la planeación informática 
+	 
+	 
+C1. 1. Existe una creciente _________________entre la  capacidad de una empresa para ____________ tecnología de información y su capacidad para ____________________y lograr metas corporativas. 
+1. interdependencia, desarrollar, innovar 
+2. interdependencia, utilizar, implementar estrategias corporativas 
+3. relación inversa, obtener ventaja competitiva usando, invertir en capacitación de la  fuerza laboral D) relación inversa, invertir en, ser eficientes 
+ 
+C1. 2.- Accenture es una empresa global de consultoría en administración, servicios de tecnología y subcontratación. Sus sistemas de información y procesos de negocios están diseñados para que sus consultores puedan trabajar virtualmente desde cualquier lugar. Los gerentes se apoyan principalmente en el teléfono y el correo electrónico para mantenerse en contacto con su personal. El sistema les permite compartir documentos y otros datos con sus compañeros de Accenture y sostener videoconferencias cuando requieren una interacción cara a cara. Seleccione los recursos tecnológicos necesarios en la empresa. 
+   1. Infraestructura de redes y telecomunicación 
+   2. Sistema de administración de conocimiento 
+   3. Sistema de red social 
+   4. Manejador de base de datos 
+   5. Software de aplicación 
+   6. Software de comunicación multimedia 
+1. 1, 3, 6 
+2. 2, 5, 6  
+3. 3, 4, 5 
+4. 6, 5, 1  
+ 
+C1. 3.- Seleccione los recursos tecnológicos necesarios en un negocio, para una empresa que vende directamente por internet a través de su sitio de comercio electrónico a sus clientes, La empresa usa a Facebook y a Twitter para darse a conocer y enviar promociones. 
+   1. Infraestructura de redes 
+   2. Sistema de administración de conocimiento 
+   3. Sistema de red social 
+   4. Manejador de base de datos 
+   5. Software de aplicación 
+   6. Software de comunicación multimedia 
+1. 1, 3, 5, 6 
+2. 1,3  4, 5 
+3. 2, 3, 5, 6 
+4. 2, 3, 4,5 
+ 
+C1. 4.  Un sistema de procesamiento de transacciones TPS sirve principalmente para: A) que los empleados de la alta dirección tomen mejores decisiones. 
+1. que los gerentes de nivel intermedio supervisen las actividades cotidianas de los operadores. 
+2. que los empleados operacionales realicen sus actividades cotidianas de manera más eficiente. 
+3. que los oficinistas realicen sus labores diarias de manera que se incremente la productividad. 
+ 
+C1. 5. Un ingeniero puede conocer la composición metalúrgica de una aleación que reduce el sonido en los sistemas internos de un aparato de propulsión. El uso compartido de esta información en la  organización puede conducir a un diseño más eficaz del motor y también podría dar lugar a ideas para equipos nuevos o mejorados. Lo anterior describe el resultado del uso del siguiente tipo de sistema de información. 
+1. Sistema de apoyo a la toma de decisiones (DSS) 
+2. Sistema de apoyo a ejecutivos (ESS) 
+3. Sistema de información gerencial (MIS) 
+4. Sistema de administración de conocimiento (KMS) 
+C1. 6.- MEDITECH es un sistema de información que ofrece a los ejecutivos de un hospital una herramienta que recolecta y analiza información de múltiples instalaciones relacionadas con la atención de la salud. El sistema produce informes lo que permite mejorar la toma de decisiones de carácter financiero, clínico y estadístico de todos los departamentos, y las instalaciones, lo deben usar los altos directivos de este hospital en sus diferentes instancias de la republica mexicana. Según la descripción sabemos que se trata de un: 
+1. Sistema de apoyo a la toma de decisiones (DSS) 
+2. Sistema de procesamiento de transacciones (TPS) 
+3. Sistema de administración de conocimiento (KMS) 
+4. Sistema de apoyo a ejecutivos (ESS) 
+ 
+C1. 7.- Seleccione los recursos tecnológicos necesarios en un negocio hotelero en donde se requiere que los empleados en el hotel y los clientes desde su sitio web puedan reservar las habitaciones necesarias para su hospedaje, o eventos sociales o comerciales. Se debe lograr informar de la disponibilidad y precios de las habitaciones, salones y salas de conferencias. 
+   1. Infraestructura de redes 
+   2. Sistema de red social 
+   3. Sistema de administración de conocimiento  
+   4. Manejador de base de datos 
+   5. Software de comunicación multimedia 
+   6. Software de aplicación  
+1. 1, 2, 3 
+2. 2, 5, 6 
+3. 4, 1, 6 D) 5, 3, 4 
+ 
+C1. 8.- Un sistema efectivo de información da a los usuarios información exacta, oportuna y relevante. La información exacta se refiere a: 
+1. que es útil y adecuada para los tipos de trabajo y decisiones que la necesitan. 
+2. que se encuentra libre de errores. 
+3. que está disponible en el momento que la requieren los encargados de la toma de decisiones. 
+4. que es completa cómo fue requerida por los tomadores de decisiones. 
+ 
+C1. 9.- Las bases de datos convencionales en se pueden enlazar a la Web a través de un: A) servidor de aplicaciones 
+1. servidor Web 
+2. servidor de base de datos  
+3. cliente con un navegador Web 
+ 
+C1. 10.- Los programas de capacitación para mejorar las habilidades de toma de decisiones se refiere a un activo complementario: 
+1. organizacional 
+2. administrativo 
+3. social 
+4. tecnológico 
+ 
+C1. 11.- Considerando el modelo de la cadena de valor de una empresa qué tipo de sistema de información se requiere para mejorar la cercanía con los clientes: 
+1. un sistema ERP 
+2. un sistema CRM 
+3. un sistema MRP 
+4. un sistema CAD/CAM 
+ 
+C1. 12.-  El contar con una cultura empresarial de apoyo que valora la eficiencia y la efectividad es un activo complementario ______________________, requerido para optimizar los rendimientos derivados de las inversiones en tecnología de información.  
+1. organizacional 
+2. administrativo 
+3. social 
+4. tecnológico 
+ 
+C1. 13.- Una empresa desea optimizar los rendimientos derivados de su inversión en sus tecnologías de información y comunicación. Relacione el nombre del activo complementario con su ejemplo correspondiente al activo. 
+Activo complementario        
+	 Ejemplo 
+	1. Activo Social  
+	a) Respaldo firme de la alta dirección para las inversiones y cambio de tecnología 
+	2. Activo organizacional  
+	b) Empresas tecnológicas y de servicios en mercados adyacentes que apoyen la implementación  
+	3. Activo administrativo 
+	c) Descentralización de la autoridad 
+	A) 1b, 2a, 3c B) 1b, 2c, 3a 
+C) 1a, 2c, 3b D) 1a, 2b, 3c 
+ 
+C1. 14.- Stikeman Elliot es una firma de derecho comercial internacional conocida por su trabajo en fusiones y adquisiciones, antimonopolios, banca y finanzas, insolvencia, propiedad intelectual y tecnología. La empresa está interesada en encontrar la forma de compartir los vastos repositorios de conocimientos que residen en las mentes de los abogados y en los documentos y archivos que estos han recopilado a lo largo de sus carreras. Identifica correctamente las tecnologías requeridas por la empresa. 
+1. Infraestructura de redes y telecomunicación 
+2. Sistema de administración de conocimiento 
+3. Sistema de red social 
+4. Manejador de base de datos 
+5. Software de aplicación 
+6. Software de comunicación multimedia 
+A) 1, 2, 4, 5  B) 1, 2, 5, 6  
+1. 2, 4, 5, 6  
+2. 2, 4, 5, 3  
+ 
+C1. 15.- La estrategia básica a seguir al construir un sistema global es: 
+1. comprender los factores políticos que orillan a la industria hacia la competencia mundial. 
+2. comprender los procesos de la cultura y los negocios en el mercado extranjero. 
+3. comprender los factores internos que orillan a la industria hacia la competencia global. 
+4. comprender los conceptos de mercadeo exterior y cómo pueden utilizarse para ayudar a operar en un mercado extranjero 
+________________
+ 
+ 
+	C Administración de las áreas de tecnologías de información de las Organizaciones 
+	60 
+	7 
+	C2. Evaluación de las nuevas tecnologías de información y comunicación 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+   * Identificar nuevas tecnologías 
+   * Medir la viabilidad de uso de las nuevas tecnologías 
+   * Medir la factibilidad de uso de las nuevas tecnologías 
+	 
+	 
+ 
+C2. 1.- Este término se refiere a la uso de la tecnología digital e Internet para ejecutar los procesos de negocios más importantes de una empresa: ______________________________ A) Negocios en línea. 
+   1. Mercados electrónicos. 
+   2. Intercambio electrónico de datos 
+   3. Administración electronica 
+ 
+C2. 2.- Nueva técnica para el desarrollo de software para crear aplicaciones Web interactivas capaces de actualizar la interfaz de usuario sin volver a cargar la página completa del navegador. 
+   1. Mashup 
+   2. Ajax 
+   3. Web  2.0  
+   4. SOAP 
+ 
+C2. 3.- Asegurarse que la nueva infraestructura tecnológica trabaje correctamente con los sistemas de legado o heredados de la empresa, se le denomina: _______________ A) Integración de hardware. 
+   1. Procesos de negocios. 
+   2. Integración de software  D) Administración del cambio. 
+ 
+C2. 4.- Existen países como India, China, Europa Oriental que desarrollan software para empresas grandes de Estados Unidos. A esto se le conoce como: ________________________________ A) software libre. 
+   1. subcontratación de software. 
+   2. software para la integración empresarial. 
+   3. código abierto. 
+ 
+C2. 5.- En la última década, muchos grandes minoristas han construido eficaz y eficientes sitios Web. Parte de su estrategia de comercio electrónico es atraer a los compradores en línea a su tienda física. Al permitir a los clientes recoger sus compras en una tienda local, en lugar de esperar a que se envíen a sus domicilios, el negocio  ofrece una oportunidad para que las ventas se incrementen aún ya que posiblemente los clientes deseen revisar los productos en la tienda. Circuit city garantiza que las compras on-line estarán disponibles para ser recogidas en 24 minutos en una tienda local o el cliente obtiene un certificado de regalo de $24. Como resultado, casi el 50% de sus pedidos en línea se entregan en una sucursal física. Qué tipo de modelo de negocios de comercio electrónico se refiere el caso anterior: 
+   1. B2B 
+   2. B2C 
+   3. C2C D) B2G 
+           
+C2. 6.- Nuevas aplicaciones, y servicios de software con base en la combinación de diferentes aplicaciones de software en línea, son conocidas también como aplicaciones Web híbridas. A) SOAP. 
+   1. Mashup. 
+   2. Ajax 
+   3. Web 2.0 
+ 
+C2. 7.- ¿Qué tipo de sistema regularmente se utiliza para el análisis de datos? 
+   1. Sistema de procesamiento de transacciones (TPS) 
+   2. Sistema de información gerencial (MIS) 
+   3. Sistema de apoyo a la toma de decisiones (DSS) 
+   4. Sistema de apoyo a ejecutivos (ESS) 
+ 
+C2. 8.- ¿Qué tipo de sistema se usa para producir informes periódicamente con un formato predeterminado? 
+   1. Sistema de procesamiento de transacciones (TPS) 
+   2. Sistema de información gerencial (MIS) 
+   3. Sistema de apoyo a la toma de decisiones (DSS) 
+   4. Sistema de apoyo a ejecutivos (ESS) 
+ 
+C2. 9.- ¿Cuál de las siguientes NO calificaría cómo un uso relacionado con un sistema de administración de la cadena de suministro? 
+   1. Generar reportes que permitan informar oportunamente sobre cambios en el diseño de producto  
+   2. Comprobar los niveles de disponibilidad del inventario  
+   3. Controlar las acciones de máquinas y equipos en la planta 
+   4. Usar la demanda de los clientes para planear la producción de manera efectiva 
+ 
+C2. 10.- ¿Tipo de plataforma empresarial se utiliza específicamente para ayudar a una empresa a incrementar las ventas? A) Sistema Interorganizacional 
+   1. Sistema de administración de la cadena de suministro 
+   2. Sistema de administración  de relación de clientes 
+   3. Sistema de administración del conocimiento 
+ 
+C2. 11.- Son un conjunto de dispositivos de almacenamiento en una red de alta velocidad independiente dedicada a tareas de almacenamiento. A) Un sistema gestor de bases de datos 
+   1. Red de área de almacenamiento 
+   2. Bibliotecas de cintas 
+   3. Un datawarehouse 
+ 
+C2. 12.- Una estructura de Tecnologías de Información y Comunicación está compuesto por varios componentes. Este componente incluye a las máquinas cliente y las máquinas servidor. 
+   1. Plataforma de Internet 
+   2. Plataforma de sistemas operativos 
+   3. Plataforma de conectividad de redes y telecomunicaciones 
+   4. Plataforma de hardware de cómputo 
+ 
+C2. 13.-Se dice que una nueva tecnología tiene probabilidades de poderse integrar a una empresa cuando es:  A) factible 
+   1. viable 
+   2. auditada 
+   3. probada 
+ 
+C4. 14.- Indica si se dispone de los conocimientos y habilidades en el manejo métodos, procedimientos y funciones requeridas para el desarrollo e implantación de la nueva tecnología: 
+   1. viabilidad 
+   2. auditoría 
+   3. factibilidad 
+   4. diseño 
+ 
+C4. 15.- ¿Cuando se debe realizar un estudio de factibilidad para incorporar nuevas tecnologías en la empresa? 
+   1. Después de la adquisición de la nueva tecnología 
+   2. Antes de la adquisición de la nueva tecnología 
+   3. Antes y después de la adquisición de la nueva tecnología 
+   4. No se debe realizar el estudio de factibilidad 
+ 
+ 
+ 
+	C Administración de las áreas de tecnologías de información de las Organizaciones 
+	60 
+	8 
+	C3. Mantenimiento de la integridad de los sistemas 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+   * Determinar planes de contingencia 
+   * Definir políticas de seguridad 
+   * Aplicar auditoría informática 
+	 
+	 
+C3. 1.- A la creación de sitios Web falsos que se parecen a los de negocios legítimos para pedir a los 
+usuarios datos personales confidenciales se le conoce como: __________________ A) phishing. 
+   1. pharming. 
+   2. spamming  
+   3. spoofing 
+ 
+C3. 2.- Amenazas comunes contra los sistemas de información provienen de todos los factores siguientes excepto: _______________________________________ 
+   1. técnicos 
+   2. organizacionales C) gubernamentales 
+D) ambientales. 
+ 
+C3. 3.- Es la principal causa de las infracciones de seguridad de red: __________________________ A) mala administración de parches en el sistema. 
+   1. falta de conocimiento por parte de los usuarios. 
+   2. ausencia de programas de seguridad. 
+   3. pharming. 
+ 
+C3. 4.- Esta se utiliza para examinar el entorno de seguridad general de la empresa, así como los controles que rigen los sistemas de información individuales.  
+   1. La autenticación 
+   2. La auditoría 
+   3. La planeación para la continuidad del negocio 
+   4. La política de seguridad 
+ 
+C3. 5.- Es un método de publicación de emisiones de audio a través de Internet, que más tarde pueden descargarse a reproductores de música portátiles. 
+   1. Streaming 
+   2. Blogging 
+   3. Uploading 
+   4. Podcast 
+ 
+C3. 6.- Concibe planes para la restauración de los servicios por algún suceso como un temblor, una inundación o un ataque terrorista. 
+   1. auditoría 
+   2. plan para la continuidad del negocio 
+   3. plan de contingencias 
+   4. la política de seguridad 
+ 
+C3. 7.- A los sistemas de seguridad basados en rasgos físicos o comportamientos se les conoce como: A) tarjetas inteligentes (smart cards) 
+   1. tokens 
+   2. firewalls 
+   3. autenticaciones biométricas 
+ 
+C3. 8.- El proceso de transformación de datos o texto sin formato en el texto cifrado que no puede ser leído por alguien que no sea el remitente y el receptor se denomina: _______________________ A) filtrado de paquetes. 
+   1. encriptación. 
+   2. autenticación biométrica. 
+   3. demodulación. 
+ 
+C3. 9.- La política de seguridad incluye: 
+   1. políticas para el uso aceptable y la autorización.  
+   2. procedimientos e instalaciones para restaurar los servicios de cómputo y comunicaciones después de que se han interrumpido.. 
+   3. la manera en que la empresa puede restaurar las operaciones del negocio. 
+   4. determinar la efectividad de la seguridad y los controles para sus sistemas de información. 
+ 
+ 
+ 
+C3. 10.- MasterCard mantiene un centro de cómputo duplicado en Kansas City, Missori, que sirve como respaldo de emergencia para su centro de cómputo principal en San Luis. Esto ilustra el concepto de: ___________________________________________________ 
+   1. una auditoría 
+   2. plan de contingencias 
+   3. plan para la continuidad del negocio 
+   4. la política de seguridad 
+ 
+C3. 11.- Un sistema de certificados digitales recurre a un tercero confiable, conocido como: 
+_________________________ A) consultor de seguridad.  
+   1. los encargados de la auditoría informática. 
+   2. autoridad cibernética. 
+   3. autoridad de certificación (CA). 
+ 
+C3. 12.- Los motores de búsqueda resuelven el problema de encontrar información útil en la Web casi instantáneamente son la aplicación dominante de la era de la Internet. Ordene correctamente los pasos que definen como funciona google.    
+   1. Por medio del software PageRank, se mide la “importancia” o popularidad de cada página definiendo cuáles páginas son las “mejores” para la consulta del usuario. 
+   2. los servidores Web de Google reciben la solicitud 3. se entregan los resultados al usuario, 10 por página 4. El usuario ingresa una consulta. 
+   1. Se preparan breves resúmenes de texto para cada página Web. 
+   2. las solicitudes se envían a los servidores de índice de Google que describen cuáles páginas contienen las palabras clave que coinciden con la consulta. 
+A) 4, 2, 3, 5, 1, 3 B) 4, 6, 2, 5, 1, 3 C) 4, 2, 6, 1, 5, 3 
+D) 4, 2, 6, 1, 5, 3 
+ 
+C3. 13.- Los gerentes de una empresa, en conjunto con los especialistas en sistemas de información, pueden determinar el valor de los activos de información, los puntos de vulnerabilidad, la frecuencia probable de un problema y los daños potenciales. La posibilidad de que cada contingencia ocurra durante un periodo de un año se expresa como:  
+   1. cantidad de dinero perdido ($) 
+   2. horas de inoperatividad (Hrs) 
+   3. porciento (%) 
+   4. rango de la pérdida/promedio ($) 
+ 
+C3. 14.- ¿Cuál de los siguientes  se refiere al concepto referente a la manera en que una empresa produce, distribuye y vende un producto o servicio para crear riquezaʼ? 
+   1. Excelencia operativa 
+   2. Activos Complementos sociales 
+   3. Activos Complementos organizacionales 
+   4. Modelo de negocios 
+ 
+C3. 15.- Los ___________________ se pueden esparcir desenfrenadamente de un sistema a otro, congestionando la memoria de la computadora o destruyendo programas y datos. 
+   1. hackers 
+   2. crackers 
+   3. programas de spyware intrusivos 
+   4. virus y gusanos  
+ 
+ 
+	C Administración de las áreas de tecnologías de información de las Organizaciones 
+	60 
+	9 
+	C4. Actualización de las tecnologías de información 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+   * Determinar el plan de renovación tecnológica 
+   * Elaborar planes de inversión tecnológica 
+   * Realizar el seguimiento del plan de renovación tecnológica 
+	 
+	 
+C4. 1.- Los sistemas estratégicos clásicos como el sistema de reservaciones computarizado SABRE de American Airlines, el sistema ATM de Citibank y el sistema de seguimiento de paquetes de FedEx, dieron beneficios por ser los primeros en sus industrias. Son claros ejemplos de conseguir el objetivo: A) Excelencia operativa 
+   1. Ventaja competitiva 
+   2. Buenas relaciones con los clientes y proveedores 
+   3. Toma de decisiones mejorada 
+ 
+C4. 2.- Chrysler Corporation puede ahorrar en costos de producción al obtener de fuentes externas 70% de sus partes. Ilustra bien el objetivo estratégico: 
+   1. Toma de decisiones mejorada 
+   2. Ventaja competitiva 
+   3. Buenas relaciones con los clientes y proveedores 
+   4. Toma de decisiones mejorada 
+ 
+C4. 3.- Los modelos de negocios por internet utilizan este medio para agregar valor adicional a los productos y servicios existentes o para sentar las bases para nuevos productos y servicios. Relacione la descripción del modelo de negocio en internet  con su ejemplo correspondiente. 
+ 
+Descripción del modelo de negocios en Internet         
+	 
+Ejemplo 
+	1. Vende productos físicos directamente a los consumidores o a empresas individuales.  
+ 
+	a) ebay.com 
+	2. Puede proporcionar subastas en línea.  
+	b) iTunes  
+	 
+3. Crea ingresos al proporcionar contenido digital, como noticias, música, fotos o video digitales, a través de la Web. El cliente podría pagar para acceder al contenido, o se podrían generar ingresos al vender espacio publicitario. 
+	 
+c) Amazon.com 
+	A) 1a, 2b, 3c B) 1a, 2c, 3b 
+C) 1c, 2a, 3b D) 1c, 2b, 3a 
+ 
+C4. 4.- Existen varias estrategias competitivas básicas. Relacione la descripción de la estrategia  con el ejemplo de la estrategia correspondiente. 
+Descripción de la estrategia          
+	Ejemplo 
+	1. Utiliza sistemas de información para elaborar productos y servicios a un precio más bajo que el de sus competidores sin demeritar la calidad y el nivel del servicio. 
+	a) Apple 
+	2. utiliza sistemas de información para diferenciar productos y desarrollar nuevos productos y servicios.  
+	b) Dell  
+	3. utiliza los sistemas de información para hacer posible una estrategia enfocada a un solo nicho de mercado; especializarse. 
+	 
+c) Hoteles Hilton 
+	A) 1a, 2b, 3c B) 1b, 2a, 3c 
+   1. 1c, 2b, 3a  
+   2. 1c, 2a, 3b 
+ 
+C4. 5.- El modelo de costos total de propiedad (TCO) se refiere a: 
+   1. designar un consto total de la propiedad de recursos de tecnología. 
+   2. calcular el costo total de la empresa. 
+   3. calcular el costo de mantener todos los empleados en la empresa. 
+   4. designar un costo de todos los recursos de hardware en la empresa. 
+ 
+C4. 6.-  El plan de renovación tecnológica debe transmitir a los inversionistas todo lo necesario para poder emitir su aprobación. Ordene las partes del plan según su apariencia en el documento.    
+   1. programa de trabajo calendarizado 
+   2. objetivos y alcance 
+   3. presupuesto y distribución de recursos 
+   4. resumen del plan 
+ 
+   1. 1, 2, 3, 4 
+   2. 2, 1, 3, 4 
+   3. 3, 4, 2, 1 
+   4. 4, 2, 3, 1 
+ 
+C4. 7.- Al conjunto de supuestos fundamentales sobre qué productos debe elaborar la organización, cómo debe producirlos, quién los debe producir, y para quién debe producirlos, es conocido como: A) teoría de la agencia 
+   1. cultura organizacional 
+   2. modelo  de comportamiento 
+   3. modelo relacional 
+ 
+C4. 8.- Google utiliza tecnología de información para seguir esta estrategia genérica: 
+   1. liderazgo a bajo costo  
+   2. diferenciación de productos 
+   3. especializarse en un nicho de mercado  
+   4. Buenas relaciones con los clientes y proveedores 
+ 
+C4. 9.- Cuál de los siguientes explica una de las razones por las cuales una la inversión en TI no garantiza buenos rendimientos. 
+   1. algunas empresas no invierten lo suficiente en la nueva tecnología  
+   2. algunas empresas se equivocan al adoptar el modelo correcto de negocios que se ajuste a la nueva tecnología  
+   3. algunas empresas esperan que los factores del entorno  mejoren 
+ 
+C4. 10.-  ¿Cuál de los siguientes NO incluye un activo complementario administrativo a una inversión en tecnología de la información? A) Procesos de negocios eficientes  
+   1. Respaldo firme de la alta dirección para las inversiones y cambio de tecnología  
+   2. Cultura administrativa que valore flexibilidad  
+   3. Trabajo en equipo y entornos de trabajo colaborativos  
+ 
+C4. 11.- Las leyes y reglamentaciones que propicien entornos de mercado estables se refiere a un activo complementario: 
+   1. Organizacional 
+   2. Administrativo 
+   3. Social 
+   4. Estratégico 
+ 
+C4. 12.- ¿Cuál es el objetivo estratégico  de una empresa que se refiere al logro de mayores niveles de eficiencia y productividad? 
+   1. Nuevos productos, servicios y modelos de negocios 
+   2. Buenas relaciones con los clientes y proveedores 
+   3. Ventaja competitiva 
+   4. Excelencia operativa 
+ 
+C4. 13.- Cuando los procesos de negocio considerados clave se encuentren automatizados o sean 
+digitalmente habilitados, ________________________________________________________ A) la empresa será más competitiva y eficiente. 
+   1. la empresa ya no necesitará registros en papel. 
+   2. se necesitaran más empleados. 
+   3. todos los empleados deben ser habilidosos con las computadoras. 
+ 
+C4. 14.- ¿Qué objetivo empresarial se refiere a aumentar los ingresos de la empresa mientras disminuye sus costos? 
+   1. Nuevos productos, servicios y modelos de negocios 
+   2. Buenas relaciones con los clientes y proveedores 
+   3. Ventaja competitiva 
+   4. Excelencia operativa 
+ 
+C4. 15.- El seguimiento y supervisión del plan de actualización NO implica: 
+   1. Revisar los logros 
+   2. Comparar logros contra lo planeado 
+   3. Detectar desvíos 
+   4. Definir entregables 
+ 
+________________
+ 
+ 
+	D Diseño de soluciones y propuestas de tecnologías de información para la organización 
+	40 
+	10 
+	D1. Análisis de modelos tecnológicos 
+	10 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+   * Identificar modelos tecnológicos existentes 
+   * Seleccionar los modelos tecnológicos adecuados a la propuesta de solución 
+	 
+	 
+D1. 1.- Un banco desea actualizar sus sistemas para obtener mejoras en sus modelos tecnológicos y así ahorrar costos de operación. Relacione el tipo de análisis de acuerdo con sus características. 
+ 
+Tipo de Análisis Características de análisis 
+ 
+1. Costo-beneficio 
+	a) de infraestructura y personal 
+	2. De costos 
+	b) de recursos y metas 
+	3. De beneficios 
+	c) de elementos técnicos y operativos 
+	4. De factibilidad 
+	d) de planificación y control 
+	 
+A) 1b, 2a, 3d, 4c B) 1b, 2d, 3a, 4c 
+C) 1c, 2a, 3b, 4d D) 1c, 2a, 3d, 4b 
+ 
+D1. 2.- ¿Qué modelo tecnológico es el que se muestra en la figura? 
+ 
+   1. modelo para un sistema ERP   
+   2. modelo para un sistema SCM 
+   3. modelo para un sistema CRM  
+   4. modelo para un sistema de comercio electrónico 
+ 
+ 
+D1.3. ¿qué modelo tecnológico es el que se muestra en la figura? 
+ 
+      1. modelo para un sistema ERP   
+      2. modelo para un sistema SCM 
+      3. modelo para un sistema CRM 
+      4. modelo para un sistema de comercio electrónico 
+ 
+ 
+D1. 4.- Existen varias fases del ciclo de vida del desarrollo de sistemas. Relacione la descripción de la fase con el nombre de la misma. 
+Descripción de la fase          
+	Nombre de la fase 
+	1. Se ponen en práctica todas las políticas y los procedimientos destinados a garantizar la operación continúa de los de los sistemas. 
+	a) Análisis 
+	2. Identificación de problemas, oportunidades y determinación de los requerimientos de información. Se 
+	b) Diseño  
+	identifica qué debe hacer el sistema. 
+	
+
+	3. Se producen los detalles que establecen la forma en la que el sistema cumplirá con los requerimientos identificados. 
+	 
+c) Desarrollo 
+ 
+	4. Consiste predominantemente en programación y pruebas del código componente del sistema. 
+	d) Mantenimiento 
+	A) 1b, 2c, 3d, 4a B) 1b, 2a, 3c, 4d 
+         1. 1d, 2b, 3a, 4c  
+         2. 1d, 2a, 3b, 4c  
+D1. 5.  ¿qué modelo tecnológico es el que se muestra en la figura? 
+ 
+         1. modelo para un sistema ERP   
+         2. modelo para un sistema SCM 
+         3. modelo para un sistema CRM 
+         4. modelo para un sistema de comercio electrónico  
+ 
+D1. 6 ¿qué modelo tecnológico es el que se muestra en la figura? 
+ 
+            1. modelo para un sistema ERP   
+            2. modelo para un sistema SCM 
+            3. modelo para un sistema CRM 
+            4. modelo para un sistema de comercio electrónico 
+ 
+ 
+D1.7.  Los diseños del modelo entidad-relación, pueden ser representados por diagramas ER. ¿Cuáles no es uno de los símbolos usados para crear estos diagramas? 
+ 
+               1. Rectángulo 
+               2. Diamante 
+               3. Circulo 
+               4. Línea 
+ 
+D1.8. No es una herramienta que se utilizan para identificar los requerimientos de una solución informática. 
+               1. Revisar los documentos de  trabajo y políticas empresariales 
+               2. Entrevistas 
+               3. Observación de los usuarios realizando sus funciones 
+               4. Estudio de costo beneficio 
+ 
+D1.9. La dirección de una empresa ha decidido que todos los archivos informáticos deberían integrarse en bases de datos para mejorar el acceso y la flexibilidad de los datos. Lo anterior es un(a): 
+               1. Problema a resolver 
+               2. Oportunidad que se presenta 
+               3. Norma de la empresa 
+               4. Ninguno de los anteriores 
+ 
+D1.10. El importe total de los pagos de clientes no es igual a la suma de los pagos cargados a las cuentas de clientes. Lo anterior es un(a): 
+               1. Problema a resolver 
+               2. Oportunidad que se presenta 
+               3. Norma de la empresa 
+               4. Ninguno de los anteriores 
+ 
+________________
+ 
+	D Diseño de soluciones y propuestas de tecnologías de información para la organización 
+	40 
+	11 
+	D2. Definición de modelos tecnológicos a emplear 
+	10 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+               * Identificar objetivos y resultados de la propuesta de solución 
+               * Seleccionar el modelo tecnológico adecuado a las políticas de la organización • Evaluar la utilidad del modelo tecnológico 
+	 
+	 
+D2. 1. ¿cómo puede determinarse el éxito de una solución informática de desarrollo de sistemas? 
+               1. Dependiendo del número de restricciones encontradas en el proceso de desarrollo 
+               2. Mediante la medición en términos del cumplimiento de objetivos alcanzados por el nuevo sistema. 
+               3. Analizando el presupuesto usado 
+               4. Completando el desarrollo del sistema 
+ 
+D2.2. ¿Cuál de los siguientes muestra la mala definición de un objetivo? 
+               1. Reducir el número de cuentas de clientes incobrables en un 50% en el próximo año 
+               2. Aumentar en un 15% el número de solicitudes de préstamo que pueden procesarse durante una jornada de ocho horas. 
+               3. Crear un informe de cuentas morosas 
+               4. Reducir las pérdidas de los créditos en un 20% mediante la pronta identificación de las cuentas morosas 
+ 
+D2.3. Los objetivos deben ser moderados por ______________________  A)  los altos directivos 
+               1. las restricciones conocidas 
+               2. los usuarios 
+               3. las técnicas a emplear 
+ 
+D2.4. Los ______________________ sobre el sistema actual y las cuestiones identificadas por el _________________________________ sirven como entradas para el establecimiento de los objetivos. A) problemas, analista 
+               1. datos, analista 
+               2. hechos relevantes, análisis de causas y efectos 
+               3. resultados, análisis  
+ 
+D2.5. Los objetivos deben ser enunciados _________________________ del rendimiento de ______________________ para definir las expectativas depositadas en un nuevo sistema. 
+ 
+               1. referentes, el usuario 
+               2. precisos y mensurables, la empresa 
+               3. claros, los trabajadores 
+               4. referentes, los  equipos  
+ 
+D2.6. El tiempo de respuesta en la página de registro es excesivo. Lo anterior es un(a): 
+               1. Problema a resolver 
+               2. Oportunidad que se presenta 
+               3. Norma de la empresa 
+               4. Ninguno de los anteriores 
+ 
+D2.7. ¿Cuál de los siguientes ilustra una política de la empresa que hay que considerar en la solución informática? 
+               1. El nuevo sistema debe estar operativo el 15 de abril 
+               2. El nuevo sistema no puede costar más de 350,000 dólares 
+               3. El nuevo sistema debe ser interactivo 
+               4. El nuevo sistema debe usar las técnicas de inventario de saldo en doble pérdida 
+ 
+D2.8. El director de un banco quiere saber si las transacciones bancarias ejecutadas en otros bancos pueden ser cargadas a las cuentas de clientes en menos de dos días actuales que se necesitan en promedio. Si así fuera, el banco podría ahorrar varios miles de dólares en pago diario de intereses. Lo anterior es un(a): 
+ 
+               1. Problema a resolver 
+               2. Oportunidad que se presenta 
+               3. Norma de la empresa 
+               4. Ninguno de los anteriores 
+ 
+D2. 9. Es necesario evaluar previamente el impacto del sistema en _____________________ y en la _______________________. 
+               1. los procesos, empresa 
+               2. los usuarios, empresa 
+               3. los costos, eficiencia 
+ 
+D2.10. Un nuevo sistema de registros permite a los estudiantes ver sus pruebas y sus calificaciones de proyectos para cualquier curso; sin embargo, el sistema también permite a los estudiantes ver todas las calificaciones de sus compañeros del mismo curso. Lo anterior es un(a): 
+ 
+               1. Problema a resolver 
+               2. Oportunidad que se presenta 
+               3. Norma de la empresa 
+               4. Requerimiento del sistema 
+ 
+________________
+ 
+	D Diseño de soluciones y propuestas de tecnologías de información para la organización 
+	40 
+	12 
+	D3. Diseño de modelos tecnológicos 
+	10 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+               * Evaluar las alternativas de modelos tecnológicos viables 
+               * Seleccionar el mejor modelo tecnológico 
+	 
+	 
+D3.1. Como tomar una decisión supone escoger la ______________ alternativa de entre las posibles, se necesita ___________________ sobre cada una de estas alternativas y sus ________________ respecto a nuestro objetivo. 
+ 
+               1. más económica, entender, costos 
+               2. mejor , información, consecuencias 
+               3. más rápida, entender, consecuencias 
+               4. mejor, información, costos 
+ 
+D3.2. Le Moigne define el término decidir como “identificar y resolver los problemas que se le presenta a toda organización”. Relaciona números del diagrama con la palabra para armar el proceso de decidir. a. acción 
+               1. decisión 
+               2. retroalimentación  
+               3. información 
+  
+ 
+ 
+A) 1a, 2c, 3d, 4b B) 1b, 2a, 3c, 4d 
+               1. 1c, 2d, 3b, 4a  
+               2. 1d, 2b, 3a, 4c 
+ 
+D3.3.  Ordene las etapas del proceso de toma de decisiones. 
+               1. implantación de la alternativa 
+               2. evaluación de la eficacia de la decisión 
+               3. identificación de los criterios de decisión 
+               4. desarrollo de  alternativas 
+               5. análisis de alternativas 
+               6. la identificación del problema  
+               7. selección de una alternativa 
+               8. asignación de ponderaciones a los criterios 
+ 
+A) f, h, d, e, c, a, g, b B) f, c, h, d, e, g, a, b C) c, e, d, g, f, h, b, a 
+D) c, h, f, d, b, g, e, a 
+ 
+D3.4. La utilidad del modelo tecnológico debería cuantificarse en: 
+               1. horas hombre usadas 
+               2. moneda corriente 
+               3. carga de trabajo 
+               4. número de líneas de código 
+ 
+D3.5. Los beneficios del modelo tecnológico pueden conocerse antes que los costos del mismo. Los beneficios por  lo general se clasifican en: 
+               1. tangibles e intangibles 
+               2. corto, mediano y largo plazo 
+               3. económicos u  operativos 
+               4. generales o específicos 
+ 
+D3.6. Al evaluar el modelo tecnológico los costes pueden encuadrarse en dos categorías: 
+               1. corto y largo plazo 
+               2. generales o específicos 
+               3. costes de personal y costes de disponibilidad 
+               4. costes asociados al desarrollo del sistema y costes asociados al funcionamiento del sistema 
+ 
+D3. 7. La toma de decisiones resulta más sencilla cuanto mayor es la información de la que se dispone. A) Verdadero 
+B) Falso 
+ 
+D3.8. La utilidad de una solución informática suele medirse en: 
+               1. uso informático adecuado  
+               2. ahorros mensuales o anuales 
+               3. número de programadores involucrados 
+               4. número de funciones realizadas por el sistema 
+ 
+D3.9. Se evalúa cada alternativa comparándola con los criterios. Algunas valoraciones pueden lograrse en una forma relativamente objetiva, pero, sin embargo, suele existir algo de subjetividad, por lo que la mayoría de las decisiones suelen contener juicios. 
+               1. Verdadero 
+               2. Falso 
+ 
+D3.10. ¿Cuál de los siguientes no es una técnica de documentación para la comparación y contraste entre soluciones de sistemas candidatos? A) Matriz de sistemas candidatos 
+               1. Matriz de comparación de viabilidad 
+               2. Análisis costo-Beneficio 
+               3. Entrevistas a usuarios finales 
+________________
+ 
+	D Diseño de soluciones y propuestas de tecnologías de información para la organización 
+	40 
+	13 
+	D4. Validación del modelo tecnológico 
+	10 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+                  * Verificar el cumplimiento de los requerimientos del cliente 
+                  * Ajustar el modelo tecnológico a los requerimientos del cliente 
+	 
+	 
+D4. 1. ¿Cuál de los siguientes es un costo de no-cumplimiento de la solución informática? A) Capacitación 
+                  1. Auditorías  
+                  2. Mantenimiento 
+                  3. Retrabajos 
+ 
+D4.2. ¿Cuál de los siguientes es un costo de cumplimiento de la solución informática? 
+                  1. Disminución de la satisfacción del cliente 
+                  2. Devolución de productos (Product Recall) 
+                  3. Mantenimiento 
+                  4. Retrabajos 
+ 
+D4.3. Existen diferentes clases de cambio estructural en las organizaciones que se pueden presentar en el rediseño de una organización en base a sistemas de información. Cuál de los siguientes NO es uno de ellos: 
+ 
+                  1. Automatización 
+                  2. Reingeniería 
+                  3. Cambios de paradigma 
+                  4. Auditoría 
+ 
+D4.4. Cuando se identifican los requisitos y se crea el modelo de análisis, el equipo de software, el cliente y otros interesados en el proyecto negocian la prioridad, disponibilidad y costo relativo de cada requisito. A) Verdadero 
+B) Falso 
+ 
+D4.5. Esta implica rediseñar radicalmente el flujo de trabajo y los procesos de negocios que se siguen para generar productos y servicios, con el objeto de reducir radicalmente los costos del negocio: A) Automatización 
+                  1. Reingeniería 
+                  2. Cambios de paradigma 
+                  3. Auditoría 
+ 
+D4.6. Esta es la forma más radical de cambio en los negocios e implica una reconceptualización de la naturaleza del negocio y de la organización misma. 
+                  1. Automatización 
+                  2. Reingeniería 
+                  3. Cambios de paradigma 
+                  4. Auditoría 
+ 
+D4.7. Detalla cómo un sistema satisfará los requisitos de información determinados por el cliente: A) Análisis 
+                  1. Mantenimiento 
+                  2. Diseño 
+                  3. Pruebas 
+ 
+D4.8. Cuando se concluye con el modelo tecnologíco y se pone en producción, después de un rango de tiempo, no hay necesidad de ajustar el modelo ya que siempre es segura se satisfacen los requerimientos establecidos por los clientes. 
+                  1. Verdadero 
+                  2. Falso 
+ 
+D4.9. El rediseño de una organización basado en la adquisición de nuevas tecnologías de información que den paso a un nuevo sistema de información no es tarea fácil, se tienen que tomar en cuenta muchos aspectos de la organización (recursos humanos, económicos y operativos) y se debe seguir un proceso previamente definido para poder hacer que este rediseño sea todo un éxito. 
+                  1. Verdadero 
+                  2. Falso 
+ 
+D4.10. Es la forma más común de cambio en la organización que la tecnología de información hace posible. Esta consiste en el uso de computadoras para acelerar el desarrollo de las actividades y operaciones de cada unidad funcional de la empresa. 
+                  1. Automatización 
+                  2. Reingeniería 
+                  3. Cambios de paradigma 
+                  4. Auditoría 
+________________
+ 
+	E Implementación de soluciones tecnológicas 
+	40 
+	14 
+	E1. Prueba la solución tecnológica 
+	10 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+                     * Realizar pruebas de desempeño de la solución tecnológica 
+                     * Realizar pruebas de volumen de la solución tecnológica 
+                     * Realizar pruebas de integración de la solución tecnológica 
+                     * Realizar pruebas de funcionalidad de la solución tecnológica 
+	 
+	 
+E1. 1. La alta gerencia de una empresa ha solicitado al grupo de desarrollo de aplicaciones el aseguramiento de la calidad de una nueva aplicación que lanzarán en producción para el control de envíos de sus productos. Seleccione los 3 niveles de aseguramiento de calidad de software. 
+                     1. Prueba 
+                     2. Pruebas de desempeño 
+                     3. Pruebas de comunicación 
+                     4. Verificación y validación 
+                     5. Validación de biblioteca de datos 
+                     6. Facilidad de uso 
+                     7. Certificación 
+                     1. 2, 3, 7 
+                     2. 3, 4, 6 
+                     3. 1, 4, 7 
+                     4. 1, 6, 7 
+ 
+E1. 2. ¿De qué depende la confiabilidad de un sistema de información? 
+                     1. De las pruebas realizadas 
+                     2. De la calidad del código fuente 
+                     3. Del diseño del sistema de información 
+                     4. De la definición de los requerimientos 
+ 
+E1. 3. ¿Qué determina que una prueba sea exitosa? 
+                     1. Si la prueba no encuentra errores 
+                     2. Si la prueba está bien diseñada 
+                     3. Si la prueba encuentra un error 
+                     4. Si la prueba no se require 
+ 
+E1. 4. Dentro de los niveles de aseguramiento de calidad de software, ¿qué diferencia hay entre Verificación y Validación? 
+                     1. La verificación es una prueba en ambiente simulado, la validación es una prueba en un ambiente de desarrollo. 
+                     2. La verificación es una prueba en ambiente productivo. La validación es una prueba en ambiente simulado. 
+                     3. La verificación es una prueba en un ambiente simulado. La validación es una prueba en ambiente no simulado, pero tampoco productivo. 
+                     4. La verificación es una prueba en un ambiente simulado. La validación es una prueba en ambiente no simulado y productivo. 
+ 
+E1. 5. ¿Cuál de las siguientes aplicaciones populares maneja esquemas de aseguramiento de calidad mediante Verificación y Validación? (Seleccionar 2) 
+                     1. Mozilla Firefox 
+                     2. iPhoto 
+                     3. iTunes 
+                     4. MSN Messenger 
+ 
+	
+
+	E1. 6. 
+ 
+	Una empresa de compras en línea está apunto de liberar una nueva version de su portal de compras. Requieren saber si ésta podrá soportar la carga de transacciones calculadas, y planear el crecimiento a futuro. Tanto en cantidad de transacciones, como en espacio en disco. 
+¿Qué pruebas se requiere realizar para obtener esta información? 
+                     1. Pruebas de desempeño 
+                     2. Pruebas de almacenamiento 
+                     3. Pruebas de integración 
+                     4. Pruebas de funcionalidad 
+	E1. 7. 
+ 
+	Una empresa se encuentra actualmente evaluando qué tipo de infraestructura representa un mejor desempeño en el tiempo de respuesta de transacciones de pagos electrónicos. ¿Qué tipo de infraestructura es la mejor para este requerimiento? 
+                     1. Sistemas distribuidos 
+                     2. Sistemas mixtos 
+                     3. Sistemas dinámicos 
+                     4. Sistemas centralizados 
+	E1. 8. 
+	Una cadena de farmacias se encuentra en fase de pruebas de su aplicación principal. Relacione los tipos de pruebas que realizarán con los sub-tipos de pruebas específicas de cada uno. 
+	Tipo de Prueba 
+	Subtipos de prueba 
+	1. Pruebas de desempeño 
+	a) Pruebas de procedimientos, factores humanos, código y 
+especificación 
+	2. Pruebas de funcionalidad 
+	b) Pruebas de Almacenamiento, parciales y de sistema. 
+	3. Pruebas de integración 
+	c) Pruebas de carga máxima, tiempos de ejecución 
+	                     1. 1a, 2c, 3b 
+                     2. 1c, 2a, 3b 
+                     3. 1b, 2c, 3a 
+                     4. 1c, 2b, 3a 
+ 
+ 
+E1. 9. Un banco busca mejorar el tiempo de transacción de sus operaciones. ¿Qué elementos tienen influencia en este tiempo? 
+                     1. Arquitectura del CPU 
+                     2. Velocidad de las comunicaciones 
+                     3. Marca del fabricante de hardware 
+                     4. Tamaño de la base de datos 
+                     5. Factores humanos 
+                     6. Calidad del código 
+  
+                     1. 1 y 2 
+                     2. 1, 2, 4, 6 
+                     3. Todas las listadas 
+                     4. 1, 2, 4, 5, 6 
+ 
+E1. 10. Seleccione de la siguiente lista características que de las Pruebas de Código 
+                     1. Se examina la lógica del programa 
+                     2. Se examina las especificaciones del programa 
+                     3. Se examina que se cumplan los requerimientos de los usuarios 
+                     4. Se prueban las rutas de un programa 
+                     5. Se enfocan en el código 
+ 
+                     1. 1, 3, 4 
+                     2. 1, 3 
+                     3. 1, 2, 4 
+                     4. 1, 4, 5 
+ 
+E1. 11. Una tienda departamental lanzará una venta noctura. Requieren saber si su sistema de compras pudiera colapsarse por la cantidad aumentada de transacciones que recibirá, a comparación del promedio diario. ¿Qué tipo de prueba recomendarías para determinar la viabilidad de la venta nocturna? 
+                     1. Pruebas de almacenamiento 
+                     2. Pruebas de recuperación 
+                     3. Pruebas de factores humanos 
+                     4. Pruebas de volumen 
+ 
+E1. 12. Una aplicación de alta complejidad ha sido desarrollada por diversos grupos de programadores en paralelo, cada grupo atendiendo un módulo independiente. Al final de la fase de desarrollo, cada grupo probó y corrigió errores de cada módulo, sin embargo, al salir a producción la aplicación se colapsa. ¿Qué tipo de prueba no llevaron a cabo? 
+                     1. Prueba de carga máxima 
+                     2. Prueba de factores humanos 
+                     3. Prueba de sistema 
+                     4. Prueba de código 
+ 
+E1. 13. En una empresa de transportes pesados, el contador requiere calcular el costo de los servicios por el peso exacto de la carga y la distancia recorrida. La aplicación que utiliza recibe información sobre pesos y distancias desde módulos separados. Al realizar el cálculo, el resultado que recibe es una cadena de caracteres sin sentido y no el monto a cobrar. ¿Que tipo de prueba requieren hacer los desarrolladores para identificar la causa del error? 
+                     1. Prueba de sistema 
+                     2. Prueba de factores humanos 
+                     3. Prueba de carga máxima 
+                     4. Prueba parcial 
+ 
+E1. 14. Como parte de un proyecto de mejora de calidad de procesos, una empresa fabricante de software requiere el mejoramiento de la documentación de las aplicaciones que comecializa. 
+¿Qué audiencia es la más importante para tomar en cuenta en este proyecto?  
+                     1. Los altos directivos de sus clientes 
+                     2. Los usuarios de la aplicación 
+                     3. Los desarrolladores de la aplicación 
+                     4. Un consejo especializado en documentación 
+E1. 15. ¿Cuál es la importancia de realizar pruebas de factores humanos? 
+                     1. Determinar factores ergonómicos importantes para la utilización de un sistema de información 
+                     2. Determinar mensajes que un usuario debe ver al utilizar un sistema de información 
+                     3. Determinar cómo reaccionarán los usuarios en formas no previstas 
+                     4. Determinar qué tanto los usuarios se resistirán al cambio 
+                     5. Determinar si los usuarios ayudarán a capacitar a otros usuarios 
+                     1. 1, 3 
+                     2. 3, 4, 5 
+                     3. 2, 4 
+                     4. 1, 2, 3 
+________________
+ 
+ 
+	E Implementación de soluciones tecnológicas 
+	60 
+	15 
+	E2. Libera la solución tecnológica 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+                        * Gestionar la infraestructura para la solución tecnológica 
+                        * Entregar la solución tecnológica al cliente 
+                        * Determinar el tipo de implantación de la solución tecnológica 
+	 
+	 
+E2. 1. ¿Cuáles son características communes a considerar en el dimensionamiento de hardware para una solución tecnológica? 
+                        1. Memoria 
+                        2. Velocidad del procesador 
+                        3. Marca 
+                        4. Canales de comunicación y E/S 
+                        1. a,b 
+                        2. c,d 
+                        3. a,b,c 
+                        4. a,b,d 
+ 
+E2. 2. Una empresa está por decider qué método de adquisición de hardware ejercer para un proyecto. Relacione los tipos con sus características 
+ 
+Tipo de adquisición 
+	Características 
+	1. Renta 
+	a) Es el más caro, normalmente de corto plazo. El proveedor absorbe todo el riesgo 
+	2. Financiamiento a largo plazo 
+	b) se requiere una inversion inicial, contratar mantenimiento por 
+separado y presenta ventajas fiscales 
+	3. Compra 
+	c) Compromiso en tiempo definido, con pagos definidos y fijos. Se incluye servicio y mantenimiento del equipo 
+	 
+	                        1. 1b,2a,3c 
+                        2. 1c,2b,3a 
+                        3. 1a,2c,3b 
+                        4. 1a,2b,3c 
+	E2. 3. 
+ 
+	Ordene de mayor a menor los métodos de adquisición de hardware, respecto a su costo total. a. Compra 
+                        1. Renta 
+                        2. Financiamiento 
+i. c,b,a ii. a,c,b iii. b,a,c iv. b,c,a 
+	E2. 4. 
+	¿A qué se refiere el mantenimiento y soporte de un equipo? 
+	                        1. Al servicio posterior a la instalación de un equipo 
+                        2. Al servicio previo a la instalación de un equipo 
+                        3. Al servicio al retirar el equipo de funcionamiento 
+E2. 5. 
+	¿Cuáles son tres factores a considerar dentro de un plan de mantenimiento? 
+	a. 
+	Fuente 
+	
+
+	b. 
+	Tiempo de respuesta 
+	
+
+	c. 
+	Términos 
+	
+
+	d. 
+	Experiencia 
+i. a,b,c ii. b,c,d iii. a,c,d iv. b,d 
+	E2. 6. 
+	Especifique dos consideraciones particulares de las condiciones de adquisición y 
+	mantenimiento de SW 
+
+
+	a. Si las licencias son de mi propiedad, ¿qué pasas si dejo de pagar mantenimiento? b. Costo 
+                        1. Duración 
+                        2. Modelo de uso & licenciamiento 
+                        1. b,c 
+                        2. b,d iii. a,d iv. a,b 
+	E2. 7. 
+ 
+	¿Qué diferencia existe entre licenciamiento por usuario nombrado y usuario concurrente? 
+                        1. El modelo de usuario nombrado cobra licencia por cada usuario que tenga posibilidad de utilizar el SW, aunque no lo utilice. El modelo de usuarios concurrentes cobra licencias la cantidad máxima de usuarios que utilicen el software al mismo tiempo 
+                        2. El modelo de usuario nombrado cobra licencia por todos los empleados de una empresa. 
+Los usuarios concurrentes se cobran por cada usuario que tenga instalado el SW 
+                        1. El modelo de usuario nombrado cobra cada usuario según se vaya firmando en su computadora. El modelo de usuarios concurrentes se cobran en base al tiempo que los usuarios utilicen la aplicación 
+	E2. 8. 
+	Relacione los tipos de implantación de sistemas en base a su descripción 
+	Método 
+	Descripción 
+	1. Sistemas paralelos 
+	a) El sistema anterior se reemplaza directamente 
+	2. Conversión directa 
+	b) Se implanta el sistema de forma gradual 
+	3. enfoque piloto 
+	c) el sistema anterior opera junto al nuevo 
+	4. por etapas 
+	d)Se implanta una versión de prueba. Después de retroalimentación se 
+recurre a otro método 
+	                        1. 1c,2a,3d,4b 
+                        2. 1c,2d,3a,4b 
+                        3. 1a,2b,3c,4d 
+                        4. 1d,2c,3b,4a 
+ 
+E2. 9. Seleccione las características del método de implantación por sistemas paralelos 
+                        1. Brinda máxima seguridad, en caso de errores, se puede recurrir al sistema anterior. Se duplican los costos 
+                        2. Obliga a los usuarios al cambio, reduciendo los tiempos de implantación. Se requiere más planeación, si hay problemas, no hay posibilidad de regresar 
+                        3. Proporciona experiencia y pruebas directas antes de salir a producción. Puede dar la impresión de que el nuevo sistema no es confiable. 
+                        4. Permite a nuevos usuarios aprovechar las nuevas características del sistema, permite una capacitación gradual. El tiempo de implantación es largo. 
+ 
+E2. 10. 
+	Seleccione las características del método de implantación por etapas 
+                        1. Brinda máxima seguridad, en caso de errores, se puede recurrir al sistema anterior. Se duplican los costos 
+                        2. Obliga a los usuarios al cambio, reduciendo los tiempos de implantación. Se requiere más planeación, si hay problemas, no hay posibilidad de regresar 
+                        3. Proporciona experiencia y pruebas directas antes de salir a producción. Puede dar la impresión de que el nuevo sistema no es confiable. 
+                        4. Permite a nuevos usuarios aprovechar las nuevas características del sistema, permite una capacitación gradual. El tiempo de implantación es largo. 
+ 
+	E2. 11. 
+	Seleccione las características del método de implantación conversión directa 
+                        1. Brinda máxima seguridad, en caso de errores, se puede recurrir al sistema anterior. Se duplican los costos 
+                        2. Obliga a los usuarios al cambio, reduciendo los tiempos de implantación. Se requiere más planeación, si hay problemas, no hay posibilidad de regresar 
+                        3. Proporciona experiencia y pruebas directas antes de salir a producción. Puede dar la impresión de que el nuevo sistema no es confiable. 
+                        4. Permite a nuevos usuarios aprovechar las nuevas características del sistema, permite una capacitación gradual. El tiempo de implantación es largo. 
+ 
+	E2. 12. 
+	¿Cuál es una característica importante de un plan de implantación? 
+                        1. El formato en que el plan está escrito 
+                        2. El costo de la implantación 
+                        3. La definición de responsables de cada actividad y un programa de actividades 
+                        4. El lugar donde se define el plan 
+	E2. 13. 
+	¿Qué tipo de evaluación de implantación se enfoca a los costos, eficiencia y beneficios del 
+	sistema implantado? 
+                        1. Evaluación operacional 
+                        2. Evaluación de impacto organizacional 
+                        3. Evaluación financiera 
+                        4. Opinión de los administradores 
+ 
+E2. 14. ¿Qué tipo de evaluación se enfoca en calificar la operación de la solución, su facilidad de uso, tiempos de respuesta, confiabilidad y nivel de utilización? 
+                        1. Evaluación financiera 
+                        2. Evaluación de impacto organizacional 
+                        3. Evaluación operacional 
+ 
+E2. 15. ¿Qué tipo de evaluación califica las actitudes de los directivos, administradores y usuarios finales de la organización donde se implantó una solución tecnológica? 
+                        1. Evaluación de desempeño de desarrollo 
+                        2. Opinión de los administradores 
+                        3. Evaluación operacional  
+ 
+	E Implementación de soluciones tecnológicas 
+	60 
+	16 
+	E3. Mantiene la solución tecnológica 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+                        * Actualizar los cambios de la solución tecnológica 
+                        * Depurar la información de la solución tecnológica 
+                        * Utilizar sistemas de control de versiones 
+	 
+	 
+E3. 1. 
+	Característica clave del mantenimiento de una solución tecnológica 
+                        1. Debe ser continuo 
+                        2. Tiene un período finito de tiempo 
+                        3. Es más caro dar mantenimiento que no darlo 
+                        4. Se debe enfocar al hardware ya que es lo que más falla estadísticamente 
+ 
+	E3. 2. 
+	Tener un sistema de control de cambios es importante porque… 
+                        1. El proveedor típicamente regala herramientas para este propósito 
+                        2. Entre más complejo sea un sistema, es más fácil perder el rastreo de cambios 
+                        3. Permite dar información al director general 
+ 
+	E3. 3. 
+	¿Cuál es un riesgo de contar con un sistema de control de cambios? 
+                        1. Pudieran hacerse esfuerzos inútiles trabajando en versiones erróneas 
+                        2. Se permite un trabajo más rápido por parte del equipo de desarrollo 
+                        3. Se permite mejor retroalmientación de los usuarios 
+ 
+	E3. 4. 
+	Si una empresa requiere de implantar un sistema de control de cambios, ¿Qué funciones 
+	básicas debe contener? 
+
+
+	                        1. Registro de cambios 
+                        2. Identificación de versiones 
+                        3. Validación del código fuente 
+                        4. Relacionamiento de cambios con otros componentes del sistema 
+ 
+	E3. 5. 
+	La gestión de configuraciones frecuentemente es parte de… 
+                        1. La gestión de cambios de software 
+                        2. La gestión de calidad del software 
+                        3. El plan de implementación de sistemas 
+                        4. Las pruebas de sistemas 
+ 
+	E3. 6. 
+	Un equipo de desarrolladores tiene una lista de cambios para la aplicación principal de la 
+	empresa. ¿Todos deben ser implementados?  
+                        1. Sí, ya que ellos cuentan con todo el conocimiento ténico 
+                        2. Si el hardware soporta los cambios, sí 
+                        3. No, porque los desarrolladores no conocen el negocio 
+                        4. No, antes los cambios deben ser revisados, acordados y registrados de acuerdo a funcionalidad, viabilidad, costo y beneficios 
+ 
+E3. 7. ¿Qué definición tiene un sistema en un estado funcional, que sirve como punto de inicio o partida para una evolución de cambios de forma controlada? 
+                        1. Sistema alfa 
+                        2. Baseline o “línea base” 
+                        3. Sistema beta 
+                        4. Sistema piloto 
+ 
+E3. 8. 
+	¿Qué certificación permite conseguir una correcta gestión de configuraciones? 
+                        1. LPI 
+                        2. ITIL 
+                        3. ISO 9000 
+                        4. CSTE 
+ 
+	E3. 9. 
+	¿Qué requiere una versión de pruebas de un sistema para convertirse en el nuevo “baseline” 
+	o “línea base”? 
+                        1. Tener el menor número de errores posible 
+                        2. Pasar los controles de calidad previamente definidos 
+                        3. Tener más funcionalidades 
+                        4. Ser más eficiente 
+ 
+E3. 10. Una empresa requiere encontrar la mayor cantidad posible de errores de una aplicación conforme evoluciona en el tiempo. ¿Qué estrategia recomendarías para lograr esto a través del tiempo? 
+                        1. Diseñar pruebas efectivas 
+                        2. Desarrollar nuevas versiones de software de forma constante 
+                        3. Diseñar pruebas con usuarios finales 
+                        4. Mejores controles de calidad 
+ 
+E3. 11. 
+	Ordene las etapas del proceso formal de gestión de cambios 
+                        1. Validación de cambios 
+                        2. Desarrollo e implementación de los cambios 
+                        3. Evaluación y asignación de costos 
+                        4. Elaboración de un formulario de solicitud de cambios 
+i. b,c,a,d ii. a,b,c,d iii. d,c,b,a iv. d,a,c,b 
+ 
+	E3. 12. 
+	¿Cuándo se justifica la liberación de una nueva versión de software con tan sólo un cambio? 
+                        1. Cuando el cambio brinda una funcionalidad superior a las anteriores 
+                        2. Cuando se optimiza el rendimiento 
+                        3. Cuando se corrige una falla crítica 
+                        4. Nunca 
+ 
+	E3. 13. 
+	¿Qué diferencia tiene una versión de un cambio? 
+                        1. Una versión es un conjunto de uno o más cambios 
+                        2. Una versión implica un cambio de funcionalidad 
+                        3. Una versión implica un cambio de interfaces gráficas 
+                        4. Una versión es independiente. Los cambios se refiere a actualizaciones de seguridad 
+ 
+	E3. 14. 
+	¿Qué diferencia existe entre una entrega y una versión? 
+	                        1. Una entrega es una versión que se distribuye a clientes o usuarios 
+                        2. Una entrega es una versión interna de desarrollo 
+                        3. Una entrega incluye varias versiones en un mismo período de tiempo 
+                        4. Una versión es un conjunto de entregas 
+ 
+E3. 15. ¿Por qué siempre existen más versiones que entregas de una aplicación? 
+                        1. Porque las entregas son menos confiables 
+                        2. Porque existen versiones de prueba que nunca llegan a los usuarios finales 
+                        3. Porque las entregas son más difíciles de conjuntar 
+________________
+ 
+ 
+	E Implementación de soluciones tecnológicas 
+	60 
+	17 
+	E4. Define un plan de capacitación de la solución tecnológica 
+	15 
+	 
+	En esta subárea se pretende medir si el sustentante es capaz de: 
+                           * Elaborar planes de capacitación 
+                           * Capacitar a los usuarios finales de la solución tecnológica 
+                           * Capacitar a los operadores de la solución tecnológica 
+                           * Elaborar manuales para el usuario final 
+	 
+	 
+E4. 1. ¿Cuáles son los dos tipos principales de capacitación que se deben considerar al implementar una solución tecnológica? 
+                           1. Para operadores 
+                           2. Para gerentes 
+                           3. Para directores 
+                           4. Para usuarios 
+i. a,c ii. b,d iii. a,d iv. b,c 
+E4. 2. La capacitación de operadores debe considerar la generación de planes de contingencia. ¿Cuál es el propósito de estos planes? 
+
+
+	                           1. Definir la recuperación en caso de problemas 
+                           2. Delegar tareas básicas de resolución de problemas comunes 
+                           3. Definir responsables de áreas de atención 
+                           4. Definir acciones a tomar en caso de desastre 
+ 
+	E4. 3. 
+	¿Cuál es un ejemplo práctico de los planes de contingencia operativa? 
+                           1. Help Desk 
+                           2. Centros de atención a clientes 
+                           3. Centros de control operativo 
+                           4. Centro de transmisión de datos 
+ 
+	E4. 4. 
+	¿Cuál es la definición de los procedimientos de ejecución? 
+                           1. Las actividades necesarias para usar un nuevo sistema 
+                           2. Las actividades para identificar errores en un sistema 
+                           3. Las actividades para realizar tareas administrativas 
+                           4. Las actividades de respaldo de sistemas 
+ 
+	E4. 5. 
+	¿Cuáles son actividades que forman parte de un plan de ejecución?  
+                           1. Configuración del sistema 
+                           2. Validación de dependencias del sistema 
+                           3. Tiempo de ejecución del sistema en condiciones normales 
+                           4. Validación del espacio físico requerido por el hardware 
+                           1. a,c,d 
+                           2. b,c,d 
+                           3. a,b,c IV. b,c 
+ 
+	E4. 6. 
+	Un administrador de respaldos identifica errores en las herramientas que utiliza para 
+	respaldos diarios. Se da cuenta que los servidores están apagados por mantenimiento. Sus actividades no se sincronizaron con las de otros operadores ¿A qué puede deberse esto? 
+                           1. No cuenta con capacitación para conocer los procedimientos de otros operadores 
+                           2. No tiene conocimiento de las herramientas 
+                           3. Le falta capacitación para realizar su tarea 
+                           4. Falta de comunicación entre operadores 
+ 
+E4. 7. Una empresa está por capacitar a sus usuarios en una nueva aplicación de contabilidad. 
+¿Qué aspectos recomendarías que la capacitación debe cubrir? 
+
+
+	                           1. Diagnóstico básico de problemas 
+                           2. Operación de la aplicación 
+                           3. Diagnóstico avanzado de problemas 
+                           4. Documentación de problemas 
+                           1. b,c 
+                           2. a,d 
+                           3. a,b 
+                           4. c,d 
+	E4. 8. 
+	¿Cuál es una ventaja de la capacitación “en casa”? 
+                           1. Es más cara 
+                           2. Se adapta a las necesidades particulares de la organización 
+                           3. Se obtiene contacto directo y mejores prácticas directo del proveedor 
+                           4. Distracciones 
+ 
+	E4. 9. 
+	¿Cuál es una ventaja de la capacitación proporcionada por el proveedor? 
+                           1. Es más barata 
+                           2. Se alinea a la estrategia de la organización 
+                           3. Se obtiene contacto directo y mejores prácticas directo del proveedor 
+                           4. Se adapta a las necesidades particulares de la organización. 
+ 
+	E4. 10. 
+	Determine del siguiente listado, cuáles son características que debe contener un plan de 
+	capacitación 
+	
+
+	
+
+	a) 
+	Objetivos y justificación 
+	
+
+	b) 
+	Características del sistema 
+	
+
+	c) 
+	Diagrama organizacional 
+	
+
+	d) 
+	Descripción de instructores 
+	
+
+	e) 
+	Costo 
+	
+
+	f) 
+	Temas a cubrir 
+                           1. a,d,e,f 
+                           2. c,e,f 
+                           3. b,c,d,e,f IV. a,d,e,f 
+ 
+	E4. 11. 
+	¿Qué tipo de capacitación está orientada al análisis de uno o más temas específicos? a) Conferencia 
+                           1. Curso 
+                           2. Seminario 
+                           3. Taller 
+ 
+	E4. 12. 
+	¿Cuál es un elemento de importancia de los manuales de usuario? 
+	                           1. Ilustrar casos de uso 
+                           2. Brindar un procedimiento detallado de problemas técnicos 
+                           3. Brindar conocimiento sobre especificaciones técnicas 
+                           4. Definir los límites del sistema 
+ 
+E4. 13. ¿Qué tipo de capacitación está orientado a temas prácticos? 
+                           1. Curso 
+                           2. Taller 
+                           3. Seminario 
+                           4. Conferencias 
+ 
+E4. 14. Una empresa se encuenta en el proceso de desarrollo de manuales de usuario para sus aplicaciones. Quieren generar una versión única de manuales que les sirva a sus usuarios durante 5 años. ¿Es esto recomdable? 
+                           1. Sí, de esta manera se reducen costos 
+                           2. No, ya que los usuarios no leerán los manuales 
+                           3. Sí, de esta manera se logran estándares de documentación 
+                           4. Depende de si la aplicación no vaya a sufrir cambios en ese tiempo. 
+ 
+E4. 15. ¿A qué audiencia debe orientarse la capacitación de usuarios finales? 
+                           1. Solamente a usuarios finales 
+                           2. A usuarios finales y directivos 
+                           3. A usuarios directos e indirectos 
+                           4. A los administradores
